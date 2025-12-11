@@ -1,0 +1,1 @@
+{"name":"Local: 1058A","url":"e:\\code\\CF\\CF1000分练习\\1058A. MEX Partition.cpp","tests":[{"id":1764737749276,"input":"3\n3\n0 0 0\n2\n1 2\n5\n0 1 2 99 8\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\CF\\CF1000分练习\\1058A. MEX Partition.cpp","group":"local","local":true}

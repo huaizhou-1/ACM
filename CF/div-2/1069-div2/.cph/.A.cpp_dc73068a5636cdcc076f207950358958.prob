@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\code\\CF\\1069-div1\\A.cpp","tests":[{"id":1765252895137,"input":"3\ndcbe\nbedbaecfc\nbabadab\nabacabadabacaba\nbabaisyou\nflagiswin\n\n","output":"abcdcbeef\naaaaabababccdab\nImpossible\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\CF\\1069-div1\\A.cpp","group":"local","local":true}

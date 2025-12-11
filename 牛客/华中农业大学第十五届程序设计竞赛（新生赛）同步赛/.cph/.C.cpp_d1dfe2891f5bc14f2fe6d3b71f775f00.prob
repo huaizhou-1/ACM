@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"e:\\code\\牛客\\华中农业大学第十五届程序设计竞赛（新生赛）同步赛\\C.cpp","tests":[{"id":1765176201064,"input":"2\n6\n3 4 2 1 4 4\n4\n1 1 1 1","output":"4 3 4 5 3 3\n4 4 4 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\牛客\\华中农业大学第十五届程序设计竞赛（新生赛）同步赛\\C.cpp","group":"local","local":true}

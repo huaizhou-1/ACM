@@ -1,0 +1,1 @@
+{"name":"Local: 1050B","url":"e:\\code\\cf\\1050B. Lasers.cpp","tests":[{"id":1760441922584,"input":"1\n130024454 359608987\n\n70352696 79082979 90187740 191665295\n","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\cf\\1050B. Lasers.cpp","group":"local","local":true}

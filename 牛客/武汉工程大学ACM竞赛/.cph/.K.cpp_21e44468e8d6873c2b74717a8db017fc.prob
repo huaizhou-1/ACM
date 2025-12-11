@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"e:\\code\\牛客\\武汉工程大学ACM竞赛\\K.cpp","tests":[{"id":1763010569993,"input":"5\n5 4\n3 5\n6 6\n1 1\n2 2","output":"Yes\nYes\nNo\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\牛客\\武汉工程大学ACM竞赛\\K.cpp","group":"local","local":true}

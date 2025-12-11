@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"e:\\code\\牛客\\周赛119\\B.cpp","tests":[{"id":1763895923123,"input":"2\n3\n1 2 3\n4\n1 1 1 1","output":"2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\牛客\\周赛119\\B.cpp","group":"local","local":true}

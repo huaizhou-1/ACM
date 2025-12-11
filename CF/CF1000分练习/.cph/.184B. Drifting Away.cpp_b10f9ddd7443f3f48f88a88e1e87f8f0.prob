@@ -1,0 +1,1 @@
+{"name":"Local: 184B","url":"e:\\code\\CF\\CF1000分练习\\184B. Drifting Away.cpp","tests":[{"id":1764653633649,"input":"4\n*****\n<<<>\n>*<\n*\n","output":"-1\n3\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\CF\\CF1000分练习\\184B. Drifting Away.cpp","group":"local","local":true}
