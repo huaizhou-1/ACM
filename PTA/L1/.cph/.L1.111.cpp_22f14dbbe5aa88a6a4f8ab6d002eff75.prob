@@ -1,0 +1,1 @@
+{"name":"Local: L1","url":"e:\\code\\PTA\\L1\\L1.111.cpp","tests":[{"id":1765867705161,"input":"91","output":"1^2+2^2+3^2+4^2+5^2+6^2\n"},{"id":1765868192517,"input":"2147483647\n","output":"Impossible for 2147483647.\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\PTA\\L1\\L1.111.cpp","group":"local","local":true}

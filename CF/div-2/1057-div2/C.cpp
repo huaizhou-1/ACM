@@ -5,19 +5,19 @@ const int N = 1e7 + 9;
 const int mod = 1e9 + 7;
 
 void solve() {
-	int n;
+	int n = 0;
     cin >> n;
-    vector<ll> arr(n);
-    for (int i = 1; i <= n; i++) {
+    vector<int> arr(n);
+    map<int, int> mp;
+    for (int i = 0; i < n; i++) {
         cin >> arr[i];
+        mp[arr[i]]++;
     }
-    vector<ll> ans(n);
-    ll mx = LONG_LONG_MIN;
-    for (int i = 1; i <= n; i++) {
-        ans[i] = max(ans[i - 1] + arr[i], arr[i]);
-        mx = max(mx, ans[i]);
+    for (auto [x, y]: mp) {
+        if (y > 2) {
+            
+        }
     }
-    cout << mx;
 }
 
 int main()
@@ -25,7 +25,7 @@ int main()
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 	int _ = 1;
-	// cin >> _;
+	cin >> _;
 	while (_--) {
 		solve();
 	}

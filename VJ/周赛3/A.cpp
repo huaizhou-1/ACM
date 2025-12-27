@@ -5,19 +5,25 @@ const int N = 1e7 + 9;
 const int mod = 1e9 + 7;
 
 void solve() {
-	ll n;
+	int n;
     cin >> n;
-    ll cnt = 0;
-    for (int k = 1; k < int(1e7); k++) {
-        ll t = (2 * n) / k - k + 1;
-        if (2 * n % k != 0) {
-            continue;
+    map<int, int> mp;
+    for (int i = 1; i <= n; i++) {
+        int a;
+        cin >> a;
+        mp[a]++;
+    }
+    ll a = 0;
+    ll b = 0;
+    for (auto [x, y]: mp) {
+        if (x % 2 == 1) {
+            a += y;
         }
-        if (t % 2 == 0 && t >= 2 && t <= 2 * n) {
-            cnt++;
+        if (x % 2 == 0) {
+            b += y;
         }
     }
-    cout << cnt;
+    cout << min(a, b);
 }
 
 int main()

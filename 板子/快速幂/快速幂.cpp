@@ -1,10 +1,10 @@
 int ksm(int m, int k, int p)
 {
-    int res = 1 % p, t = m;
+    int res = 1;
     while (k)
     {
-        if (k & 1) res = res * t % p;
-        t = t * t % p;
+        if (k & 1) res = res * m % p;
+        m = m * m % p;
         k >>= 1;
     }
     return res;
