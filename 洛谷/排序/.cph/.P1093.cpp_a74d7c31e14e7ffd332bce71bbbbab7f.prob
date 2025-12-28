@@ -1,1 +1,0 @@
-{"name":"Local: P1093","url":"e:\\code\\洛谷\\排序\\P1093.cpp","tests":[{"id":1760861419263,"input":"8\n80 89 89\n88 98 78\n90 67 80\n87 66 91\n78 89 91\n88 99 77\n67 89 64\n78 89 98","output":"8 265\n2 264\n6 264\n1 258\n5 258\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\洛谷\\排序\\P1093.cpp","group":"local","local":true}

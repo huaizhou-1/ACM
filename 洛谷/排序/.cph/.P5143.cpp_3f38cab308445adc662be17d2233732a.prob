@@ -1,1 +1,0 @@
-{"name":"Local: P5143","url":"e:\\code\\洛谷\\排序\\P5143.cpp","tests":[{"id":1761287773526,"input":"5\n2 2 2\n1 1 1\n4 4 4\n3 3 3\n5 5 5\n","output":"6.928"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\洛谷\\排序\\P5143.cpp","group":"local","local":true}
